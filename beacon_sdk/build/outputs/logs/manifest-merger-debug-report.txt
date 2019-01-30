@@ -1,0 +1,89 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidStudioProjects\ImportModule\beacon_sdk\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from D:\AndroidStudioProjects\ImportModule\beacon_sdk\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from D:\AndroidStudioProjects\ImportModule\beacon_sdk\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from D:\AndroidStudioProjects\ImportModule\beacon_sdk\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from D:\AndroidStudioProjects\ImportModule\beacon_sdk\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from D:\AndroidStudioProjects\ImportModule\beacon_sdk\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from D:\AndroidStudioProjects\ImportModule\beacon_sdk\src\main\AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from D:\AndroidStudioProjects\ImportModule\beacon_sdk\src\main\AndroidManifest.xml:5:5-44
+		INJECTED from D:\AndroidStudioProjects\ImportModule\beacon_sdk\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\ImportModule\beacon_sdk\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\AndroidStudioProjects\ImportModule\beacon_sdk\src\main\AndroidManifest.xml:7:5-30
+		INJECTED from D:\AndroidStudioProjects\ImportModule\beacon_sdk\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\ImportModule\beacon_sdk\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\AndroidStudioProjects\ImportModule\beacon_sdk\src\main\AndroidManifest.xml:4:5-51
+	xmlns:android
+		ADDED from D:\AndroidStudioProjects\ImportModule\beacon_sdk\src\main\AndroidManifest.xml:3:5-63
+	android:versionCode
+		ADDED from D:\AndroidStudioProjects\ImportModule\beacon_sdk\src\main\AndroidManifest.xml:6:5-28
+		INJECTED from D:\AndroidStudioProjects\ImportModule\beacon_sdk\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\ImportModule\beacon_sdk\src\main\AndroidManifest.xml
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from D:\AndroidStudioProjects\ImportModule\beacon_sdk\src\main\AndroidManifest.xml:9:5-77
+	android:name
+		ADDED from D:\AndroidStudioProjects\ImportModule\beacon_sdk\src\main\AndroidManifest.xml:9:22-74
+uses-permission#android.permission.INTERNET
+ADDED from D:\AndroidStudioProjects\ImportModule\beacon_sdk\src\main\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from D:\AndroidStudioProjects\ImportModule\beacon_sdk\src\main\AndroidManifest.xml:10:22-64
+application
+ADDED from D:\AndroidStudioProjects\ImportModule\beacon_sdk\src\main\AndroidManifest.xml:12:5-41:19
+	android:label
+		ADDED from D:\AndroidStudioProjects\ImportModule\beacon_sdk\src\main\AndroidManifest.xml:15:9-41
+	android:allowBackup
+		ADDED from D:\AndroidStudioProjects\ImportModule\beacon_sdk\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from D:\AndroidStudioProjects\ImportModule\beacon_sdk\src\main\AndroidManifest.xml:16:9-40
+	android:name
+		ADDED from D:\AndroidStudioProjects\ImportModule\beacon_sdk\src\main\AndroidManifest.xml:13:9-51
+activity#org.altbeacon.beaconreference.MonitoringActivity
+ADDED from D:\AndroidStudioProjects\ImportModule\beacon_sdk\src\main\AndroidManifest.xml:17:9-25:20
+	android:label
+		ADDED from D:\AndroidStudioProjects\ImportModule\beacon_sdk\src\main\AndroidManifest.xml:19:13-45
+	android:name
+		ADDED from D:\AndroidStudioProjects\ImportModule\beacon_sdk\src\main\AndroidManifest.xml:18:13-47
+activity#org.altbeacon.beaconreference.RangingActivity
+ADDED from D:\AndroidStudioProjects\ImportModule\beacon_sdk\src\main\AndroidManifest.xml:26:9-28:48
+	android:label
+		ADDED from D:\AndroidStudioProjects\ImportModule\beacon_sdk\src\main\AndroidManifest.xml:28:13-45
+	android:name
+		ADDED from D:\AndroidStudioProjects\ImportModule\beacon_sdk\src\main\AndroidManifest.xml:27:13-44
+service#org.altbeacon.beacon.service.BeaconService
+ADDED from D:\AndroidStudioProjects\ImportModule\beacon_sdk\src\main\AndroidManifest.xml:30:9-36:19
+	tools:node
+		ADDED from D:\AndroidStudioProjects\ImportModule\beacon_sdk\src\main\AndroidManifest.xml:32:13-33
+	android:name
+		ADDED from D:\AndroidStudioProjects\ImportModule\beacon_sdk\src\main\AndroidManifest.xml:31:13-70
+meta-data#longScanForcingEnabled
+ADDED from D:\AndroidStudioProjects\ImportModule\beacon_sdk\src\main\AndroidManifest.xml:33:13-35:40
+	android:value
+		ADDED from D:\AndroidStudioProjects\ImportModule\beacon_sdk\src\main\AndroidManifest.xml:35:17-37
+	android:name
+		ADDED from D:\AndroidStudioProjects\ImportModule\beacon_sdk\src\main\AndroidManifest.xml:34:17-54
+activity#org.altbeacon.ui.ShowAllBeaconActivity
+ADDED from D:\AndroidStudioProjects\ImportModule\beacon_sdk\src\main\AndroidManifest.xml:38:9-84
+	android:name
+		ADDED from D:\AndroidStudioProjects\ImportModule\beacon_sdk\src\main\AndroidManifest.xml:38:19-72
+activity#org.altbeacon.ui.LoginActivity
+ADDED from D:\AndroidStudioProjects\ImportModule\beacon_sdk\src\main\AndroidManifest.xml:39:9-40:20
+	android:name
+		ADDED from D:\AndroidStudioProjects\ImportModule\beacon_sdk\src\main\AndroidManifest.xml:39:19-64
+uses-sdk
+INJECTED from D:\AndroidStudioProjects\ImportModule\beacon_sdk\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\AndroidStudioProjects\ImportModule\beacon_sdk\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidStudioProjects\ImportModule\beacon_sdk\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidStudioProjects\ImportModule\beacon_sdk\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidStudioProjects\ImportModule\beacon_sdk\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\AndroidStudioProjects\ImportModule\beacon_sdk\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidStudioProjects\ImportModule\beacon_sdk\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\ImportModule\beacon_sdk\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AndroidStudioProjects\ImportModule\beacon_sdk\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidStudioProjects\ImportModule\beacon_sdk\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\ImportModule\beacon_sdk\src\main\AndroidManifest.xml

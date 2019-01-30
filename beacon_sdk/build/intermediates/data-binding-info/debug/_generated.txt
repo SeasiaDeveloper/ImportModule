@@ -1,0 +1,4 @@
+org.altbeacon.beaconreference.databinding.ActivityShowAllBeaconBinding
+org.altbeacon.beaconreference.databinding.ActivityLoginBinding
+android.databinding.DataBindingComponent
+org.altbeacon.beaconreference.databinding.AdapterShowAllBeaconBinding
